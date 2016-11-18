@@ -1,3 +1,10 @@
+#logo {
+  padding-top: 1rem;
+  padding-left: 0.5rem;
+  padding-bottom: 1rem;
+  max-width: 20%;
+}
+
 .container {
     padding: 80px 120px;
 }
@@ -11,28 +18,21 @@ nav {
 
 
 /*     Carousel        */
-
-
 .carousel-inner img {
     -webkit-filter: grayscale(90%);
     filter: grayscale(90%); /* make all photos black and white */
-    width: 100%; /* Set width to 100% */
+    width: 100% !important; /* Set width to 100% */
     margin: auto;
 }
-
 .carousel-caption h3 {
     color: #fff !important;
 }
-
 @media (max-width: 600px) {
     .carousel-caption {
         display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
     }
-}
 
-
-
-/*       Navbar       */
+/*       Navbar */
 
 
 
@@ -40,9 +40,8 @@ nav {
 /* Add a dark background color with a little bit see-through */
 .navbar {
    margin-bottom: 0;
-   background-color: #2d2d30;
    border: 0;
-   font-size: 11px !important;
+   font-size: 100% !important;
    letter-spacing: 4px;
    opacity:0.9;
 }
@@ -53,14 +52,14 @@ nav {
 }
 
 /* On hover, the links will turn white */
-.navbar-nav li a:hover {
+.navbar li a:hover {
    color: #fff !important;
 }
 
 /* The active link */
 .navbar-nav li.active a {
    color: #fff !important;
-   background-color:#29292c !important;
+   background-color: #4fac50 !important;
 }
 
 /* Remove border color from the collapsible button */
