@@ -114,17 +114,31 @@
         </button>
         <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
           <li><a href="#">Aarau</a></li>
+          <li><a href="#">Appenzell Ausserrhoden</a></li>Freiburg
+          <li><a href="#">Appenzell Innerrhoden</a></li>
+          <li><a href="#">Basel-Land</a></li>
+          <li><a href="#">Basel-Stadt</a></li>
           <li><a href="#">Bern</a></li>
-          <li><a href="#">Basel</a></li>
-          <li><a href="#">...</a></li>
-          <li><a href="#">Bern</a></li>
-          <li><a href="#">Basel</a></li>
-          <li><a href="#">Aarau</a></li>
-          <li><a href="#">Bern</a></li>
-          <li><a href="#">Basel</a></li>
-          <li><a href="#">Aarau</a></li>
-          <li><a href="#">Bern</a></li>
-          <li><a href="#">Basel</a></li>
+          <li><a href="#">Freiburg</a></li>
+          <li><a href="#">Genf</a></li>
+          <li><a href="#">Glarus</a></li>
+          <li><a href="#">Graubünden</a></li>
+          <li><a href="#">Jura</a></li>
+          <li><a href="#">Luzern</a></li>
+          <li><a href="#">Neuenburg</a></li>
+          <li><a href="#">Nidwalden</a></li>Freiburg
+          <li><a href="#">Obwalden</a></li>
+          <li><a href="#">St.Gallen</a></li>
+          <li><a href="#">Schaffhausen</a></li>
+          <li><a href="#">Schwyz</a></li>
+          <li><a href="#">Solothurn</a></li>
+          <li><a href="#">Thurgau</a></li>
+          <li><a href="#">Tessin</a></li>
+          <li><a href="#">Uri</a></li>
+          <li><a href="#">Waadt</a></li>
+          <li><a href="#">Wallis</a></li>
+          <li><a href="#">Zug</a></li>
+          <li><a href="#">Zürich</a></li>
         </ul>
       </div>
     </div><!-- col -->
